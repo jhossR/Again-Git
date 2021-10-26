@@ -9,3 +9,9 @@ p.lead{
 .p-int{
     font-family: arial;
 }
+
+.p-mg{
+    font-weight: 600;
+    font-family: arial;
+    color:rgb(182, 150, 10);
+}
