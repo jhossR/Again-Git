@@ -3,6 +3,8 @@ Esta es la historia de Jose Sarmiento
 Jose Sarmiento tiene 21 años y nació en Bogotá, Colombia en el 2000.
 No ha viajado. :(
 
+Ahora existe otro Jose Sarmiento que está agregando contenido, lo llamré Jose2.
+
 Hablaremos de su vida y su escencia.
 
 Jose está desempleado porque renunció, y ahora está aprendiendo GIT.
