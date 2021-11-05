@@ -1,9 +1,14 @@
 body{
-    background: rgb(253, 252, 250);
+    background: rgb(240, 239, 237);
+}
+
+.google-header{
+    width: 40px;
+    padding-bottom: 10px;
 }
 
 p.lead{
-    color: rgb(231, 19, 19);
+    color: rgb(95, 10, 10);
 }
 
 .p-int{
